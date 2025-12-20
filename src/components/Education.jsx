@@ -9,7 +9,6 @@ const Education = () => {
       institution: 'KIET Group of Institutions, AKTU',
       location: 'Ghaziabad, UP',
       period: 'Nov 2022 - Aug 2026',
-      description: 'Focusing on Artificial Intelligence and Machine Learning.',
       gpa: '8.62 CGPA'
     },
     {
@@ -17,7 +16,6 @@ const Education = () => {
       institution: 'Sherwood College, CBSE',
       location: 'Jhansi, UP',
       period: 'April 2020 - July 2021',
-      description: 'Completed with excellent academic performance.',
       gpa: '95.2%'
     },
     {
@@ -25,7 +23,6 @@ const Education = () => {
       institution: 'Sherwood College, CBSE',
       location: 'Jhansi, UP',
       period: 'April 2018 - May 2019',
-      description: 'Foundation for technical and scientific studies.',
       gpa: '94.8%'
     }
   ];
