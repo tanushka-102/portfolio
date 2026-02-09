@@ -11,12 +11,12 @@ The portfolio highlights my work in **machine learning, data analysis, computer 
 
 ## ✨ Features
 
-- ⚡ Modern, responsive UI with smooth animations
-- 📊 Dedicated sections for:
+- Modern, responsive UI with smooth animations
+- Dedicated sections for:
   - Data Science Projects
   - Data Visualization Tasks
   - Skills & Education
-- 🧠 ML & AI-focused project showcase
-- 📬 Fully functional **Contact Form** (EmailJS integration)
-- 🌙 Elegant dark theme with gradient accents
-- 🚀 Deployed on **Vercel**
+- ML & AI-focused project showcase
+- Fully functional **Contact Form** (EmailJS integration)
+- Elegant dark theme with gradient accents
+- Deployed on **Vercel**
