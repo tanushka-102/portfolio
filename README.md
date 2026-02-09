@@ -4,7 +4,7 @@ This repository contains the source code for my **personal portfolio website**, 
 
 The portfolio highlights my work in **machine learning, data analysis, computer vision, and NLP**, along with interactive visualizations and a real-time contact form.
 
-🔗 **Live Website:** https://your-vercel-link.vercel.app  
+🔗 **Live Website:** https://tanushka-verma-portfolio.vercel.app  
 📫 **Contact:** tanushkaverma102@gmail.com
 
 ---
