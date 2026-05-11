@@ -4,9 +4,9 @@ import { Database, TrendingUp, Award, Code } from 'lucide-react';
 
 const About = () => {
   const stats = [
-    { Icon: Database, value: '5+', label: 'Data Science Projects' },
-    { Icon: Code, value: '300+', label: 'DSA Problems Solved' },
-    { Icon: Award, value: '1394', label: 'LeetCode Global Rank' },
+    { Icon: Database, value: '6+', label: 'AI/ML Projects' },
+    { Icon: Code, value: '350+', label: 'DSA Problems Solved' },
+    { Icon: Award, value: '8.7+', label: 'Current CGPA' },
     { Icon: TrendingUp, value: '2★', label: 'CodeChef Rating' }
   ];
 
@@ -48,28 +48,29 @@ const About = () => {
             className="space-y-6"
           >
             <p className="text-white/80 text-lg leading-relaxed">
-              I am <span className="font-medium text-white">Tanushka Verma</span>, a B.Tech student in
-              Computer Science Engineering (AI & ML) with a strong interest in
-              <span className="text-blue-400"> Data Science, Machine Learning, and Analytics</span>.
-              I enjoy transforming raw data into meaningful insights and building
-              intelligent systems that solve real-world problems.
-            </p>
+  I am <span className="font-medium text-white">Tanushka Verma</span>, a B.Tech student in
+  Computer Science Engineering (AI & ML) with a strong interest in
+  <span className="text-blue-400"> Data Science, Machine Learning, and Artificial Intelligence</span>.
+  I enjoy transforming raw data into meaningful insights and building
+  intelligent systems that solve real-world problems using data-driven approaches.
+</p>
 
-            <p className="text-white/80 text-lg leading-relaxed">
-              I have hands-on experience working on projects involving
-              <span className="text-blue-400"> Natural Language Processing, Computer Vision,
-              and predictive modeling</span>, using tools such as Python,
-              Scikit-learn, TensorFlow, OpenCV, and Streamlit. My work focuses on
-              building end-to-end solutions — from data preprocessing to model
-              evaluation and visualization.
-            </p>
+<p className="text-white/80 text-lg leading-relaxed">
+  I have hands-on experience working on projects involving
+  <span className="text-blue-400"> Natural Language Processing, Computer Vision,
+  predictive analytics, and AI-powered applications</span>, using technologies such as
+  Python, Scikit-learn, TensorFlow, OpenCV, Streamlit, and Pandas.
+  My work focuses on developing end-to-end ML solutions — from data preprocessing
+  and feature engineering to model training, evaluation, and deployment.
+</p>
 
-            <p className="text-white/80 text-lg leading-relaxed">
-              Alongside data science, I actively practice competitive programming,
-              which strengthens my problem-solving skills and algorithmic thinking.
-              I am continuously learning and seeking opportunities where I can
-              apply data-driven approaches to create measurable impact.
-            </p>
+<p className="text-white/80 text-lg leading-relaxed">
+  Alongside AI/ML development, I actively practice competitive programming and
+  problem solving, which strengthens my analytical thinking and coding skills.
+  I am continuously exploring emerging technologies including
+  <span className="text-blue-400"> Generative AI, LLMs, and advanced data analytics</span>,
+  while seeking opportunities to contribute to impactful and innovative projects.
+</p>
           </motion.div>
         </div>
 
