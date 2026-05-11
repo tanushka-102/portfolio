@@ -167,7 +167,7 @@ const Hero = () => {
 
             <div className="relative rounded-2xl overflow-hidden border-2 border-blue-400/30 shadow-2xl shadow-blue-500/20">
               <img
-                src="/images/Tanushka.png"
+                src="/images/Tanushka.jpg"
                 alt="Tanushka Verma - Data Scientist"
                 className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
               />
