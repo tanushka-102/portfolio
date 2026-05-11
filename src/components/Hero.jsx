@@ -63,7 +63,7 @@ const Hero = () => {
             transition={{ delay: 0.4 }}
             className="text-2xl md:text-3xl text-blue-300 mb-6"
           >
-            Data Scientist & ML Engineer
+            Machine Learning Engineer | Data Scientist
           </motion.h2>
 
           <motion.p
@@ -72,8 +72,7 @@ const Hero = () => {
             transition={{ delay: 0.5 }}
             className="text-white/70 text-lg mb-8 max-w-xl"
           >
-            Passionate B.Tech student specializing in CSE (AI & ML) with expertise in
-            building intelligent systems, data analytics, and machine learning models.
+            Passionate AI & Machine Learning Engineer focused on building intelligent systems using Deep Learning, NLP, Computer Vision, and Data Analytics. Experienced in developing real-world AI applications with Python, TensorFlow, Streamlit, and modern ML frameworks.
           </motion.p>
 
           {/* Buttons */}
