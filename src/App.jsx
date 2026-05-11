@@ -23,7 +23,6 @@ function App() {
           <Hero />
           <About />
           <Projects />
-          <DataVisualization />
           <Education />
           <Skills />
           <Contact />
