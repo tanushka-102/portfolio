@@ -9,7 +9,7 @@ const Education = () => {
       institution: 'KIET Group of Institutions, AKTU',
       location: 'Ghaziabad, UP',
       period: 'Nov 2022 - Aug 2026',
-      gpa: '8.62 CGPA'
+      gpa: '8.72 CGPA'
     },
     {
       degree: 'Senior Secondary School',

@@ -6,6 +6,26 @@ import { Button } from '@/components/ui/button';
 const Projects = () => {
   const projects = [
     {
+  title: 'SkillMitra',
+  description:
+    'An AI-powered skill swapping and collaborative learning platform designed to connect learners and mentors based on skills, interests, and learning goals. Features include AI-based matchmaking, progress tracking, peer learning, gamification, and interactive user dashboards.',
+
+  technologies: [
+        'React.js',
+        'Node.js',
+        'MongoDB',
+        'Express.js',
+        'FastAPI',
+        'Python',
+        'Machine Learning',
+        'Tailwind CSS',
+        'JWT Authentication'
+      ],
+      date: '2025',
+      demoLink: 'https://your-skillmitra-demo-link.vercel.app',
+      githubLink: 'https://github.com/tanushka-102/SkillMitra-project'
+    },
+    {
       title: 'IntroSense',
       description:
         'Developed a Streamlit app leveraging HuggingFace Transformers to generate summaries, contextual Q&A, and interactive challenge questions from research papers, improving study efficiency and engagement.',
@@ -60,7 +80,7 @@ const Projects = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Featured Projects
+            AI & Data Science Projects
           </h2>
           <div className="w-20 h-1 bg-blue-400 mx-auto mb-6"></div>
           <p className="text-white/70 text-lg max-w-2xl mx-auto">
