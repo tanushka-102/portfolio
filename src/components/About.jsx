@@ -57,7 +57,7 @@ const About = () => {
 
 <p className="text-white/80 text-lg leading-relaxed">
   I specialize in
-  <span className="text-blue-400"> full-stack development, AI-powered applications, and data-driven solutions</span>,
+  <span className="text-blue-400"> AI-powered applications and data-driven solutions</span>,
   with hands-on experience using Java, React, Node.js, Express.js, MongoDB, Python,
   TensorFlow, OpenCV, and modern JavaScript frameworks. From designing intuitive
   user interfaces to developing secure backend systems and integrating AI models,
