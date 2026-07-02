@@ -6,7 +6,7 @@ const About = () => {
   const stats = [
     { Icon: Database, value: '6+', label: 'AI/ML Projects' },
     { Icon: Code, value: '350+', label: 'DSA Problems Solved' },
-    { Icon: Award, value: '8.7+', label: 'Current CGPA' },
+    { Icon: Award, value: '8.8', label: 'Current CGPA' },
     { Icon: TrendingUp, value: '2★', label: 'CodeChef Rating' }
   ];
 
