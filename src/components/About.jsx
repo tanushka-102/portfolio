@@ -48,30 +48,28 @@ const About = () => {
             className="space-y-6"
           >
             <p className="text-white/80 text-lg leading-relaxed">
-  I am <span className="font-medium text-white">Tanushka Verma</span>, a B.Tech student in
-  Computer Science Engineering (AI & ML) passionate about
-  <span className="text-blue-400"> Software Development, Artificial Intelligence, and Full-Stack Engineering</span>.
-  I enjoy building scalable web applications, integrating AI into real-world products,
-  and creating intuitive user experiences that solve meaningful problems.
+  I'm <span className="font-medium text-white">Tanushka Verma</span>, a passionate
+  <span className="text-blue-400"> Software Engineer and AI enthusiast</span> who enjoys building
+  scalable web applications and intelligent solutions that solve real-world problems.
+  I love transforming ideas into seamless digital experiences by combining clean code,
+  thoughtful design, and modern technologies.
 </p>
 
 <p className="text-white/80 text-lg leading-relaxed">
-  I have hands-on experience developing
-  <span className="text-blue-400"> full-stack web applications, AI-powered platforms,
-  and intelligent automation tools</span> using technologies such as
-  Java, React, Node.js, Express.js, MongoDB, Python, TensorFlow, OpenCV,
-  and modern JavaScript frameworks. My work spans the complete development
-  lifecycle—from designing responsive interfaces and secure backend APIs to
-  integrating machine learning models and deploying production-ready applications.
+  I specialize in
+  <span className="text-blue-400"> full-stack development, AI-powered applications, and data-driven solutions</span>,
+  with hands-on experience using Java, React, Node.js, Express.js, MongoDB, Python,
+  TensorFlow, OpenCV, and modern JavaScript frameworks. From designing intuitive
+  user interfaces to developing secure backend systems and integrating AI models,
+  I enjoy building products that are scalable, efficient, and user-centric.
 </p>
 
 <p className="text-white/80 text-lg leading-relaxed">
-  Beyond development, I actively practice competitive programming and
-  problem solving, strengthening my analytical thinking and software engineering
-  skills. I am continuously exploring
+  Beyond development, I enjoy solving challenging problems, exploring emerging
+  technologies, and continuously improving my craft. My current interests include
   <span className="text-blue-400"> Generative AI, Large Language Models (LLMs), cloud technologies,
-  and scalable system design</span>, while seeking opportunities to build impactful,
-  innovative software that makes a difference.
+  and scalable software architecture</span>. I'm always excited to collaborate on
+  innovative projects, contribute to meaningful products, and keep learning along the way.
 </p>
           </motion.div>
         </div>
