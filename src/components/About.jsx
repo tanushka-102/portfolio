@@ -49,27 +49,29 @@ const About = () => {
           >
             <p className="text-white/80 text-lg leading-relaxed">
   I am <span className="font-medium text-white">Tanushka Verma</span>, a B.Tech student in
-  Computer Science Engineering (AI & ML) with a strong interest in
-  <span className="text-blue-400"> Data Science, Machine Learning, and Artificial Intelligence</span>.
-  I enjoy transforming raw data into meaningful insights and building
-  intelligent systems that solve real-world problems using data-driven approaches.
+  Computer Science Engineering (AI & ML) passionate about
+  <span className="text-blue-400"> Software Development, Artificial Intelligence, and Full-Stack Engineering</span>.
+  I enjoy building scalable web applications, integrating AI into real-world products,
+  and creating intuitive user experiences that solve meaningful problems.
 </p>
 
 <p className="text-white/80 text-lg leading-relaxed">
-  I have hands-on experience working on projects involving
-  <span className="text-blue-400"> Natural Language Processing, Computer Vision,
-  predictive analytics, and AI-powered applications</span>, using technologies such as
-  Python, Scikit-learn, TensorFlow, OpenCV, Streamlit, and Pandas.
-  My work focuses on developing end-to-end ML solutions — from data preprocessing
-  and feature engineering to model training, evaluation, and deployment.
+  I have hands-on experience developing
+  <span className="text-blue-400"> full-stack web applications, AI-powered platforms,
+  and intelligent automation tools</span> using technologies such as
+  Java, React, Node.js, Express.js, MongoDB, Python, TensorFlow, OpenCV,
+  and modern JavaScript frameworks. My work spans the complete development
+  lifecycle—from designing responsive interfaces and secure backend APIs to
+  integrating machine learning models and deploying production-ready applications.
 </p>
 
 <p className="text-white/80 text-lg leading-relaxed">
-  Alongside AI/ML development, I actively practice competitive programming and
-  problem solving, which strengthens my analytical thinking and coding skills.
-  I am continuously exploring emerging technologies including
-  <span className="text-blue-400"> Generative AI, LLMs, and advanced data analytics</span>,
-  while seeking opportunities to contribute to impactful and innovative projects.
+  Beyond development, I actively practice competitive programming and
+  problem solving, strengthening my analytical thinking and software engineering
+  skills. I am continuously exploring
+  <span className="text-blue-400"> Generative AI, Large Language Models (LLMs), cloud technologies,
+  and scalable system design</span>, while seeking opportunities to build impactful,
+  innovative software that makes a difference.
 </p>
           </motion.div>
         </div>
