@@ -42,7 +42,7 @@ const Projects = () => {
       githubLink: 'https://github.com/tanushka-102/IntroSense'
     },
     {
-      title: 'Smart Research Assistant',
+      title: 'Summarify',
       description:
         'Built an evaluation system that analyzes student introductions using rubric-based scoring, rule-based NLP summarization, and missing-element detection.',
       technologies: [

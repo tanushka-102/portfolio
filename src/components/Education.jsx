@@ -5,11 +5,11 @@ import { GraduationCap, Award, Trophy, Star } from 'lucide-react';
 const Education = () => {
   const education = [
     {
-      degree: 'Bachelor of Technology in CSE (AI & ML)',
+      degree: 'Bachelor of Technology in CSE(AI & ML)',
       institution: 'KIET Group of Institutions, AKTU',
       location: 'Ghaziabad, UP',
-      period: 'Nov 2022 - Aug 2026',
-      gpa: '8.72 CGPA'
+      period: 'Nov 2022 - May 2026',
+      gpa: '8.8 CGPA'
     },
     {
       degree: 'Senior Secondary School',
@@ -28,10 +28,11 @@ const Education = () => {
   ];
 
   const certifications = [
+    'AWS Certified Machine Learning Engineer- Associate',
+    'AWS Certified AI Practitioner',
     'Cybersecurity Foundations - Palo Alto Networks Cybersecurity Academy',
     'Deloitte Data Analytics Virtual Job Simulation - Forage',
-    'Machine Learning - Model Development',
-    'Data Preprocessing using scikit-learn, Pandas & NumPy'
+    'Machine Learning - Model Development'
   ];
 
   const achievements = [
